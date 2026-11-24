@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+motor/
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.part
+*.7z
+*.zip
+*.tmp
+.ready
+*.log
+outputs/
+generated/
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+*.exe
+!Miku Image Studio.exe
